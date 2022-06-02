@@ -3,11 +3,7 @@
 
 * 目前還沒有用到後端搭配資料庫
 
-* QR Code，可用 Line 掃描加入好友後使用:
 
-
-
-![stock-market-thief](https://github.com/Chanshenlee/stock-market-thief/blob/main/image/stock-market-thief.png)
 
 
 
