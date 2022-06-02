@@ -7,7 +7,7 @@
 
 
 
-![money](https://github.com/Chanshenlee/stock-market-thief/blob/main/image/stock-market-thief.png)
+![stock-market-thief](https://github.com/Chanshenlee/stock-market-thief/blob/main/image/stock-market-thief.png)
 
 
 
