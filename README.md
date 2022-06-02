@@ -7,7 +7,7 @@
 
 
 
-![LINE BOT](https://github.com/Chanshenlee/stock-market-thief/blob/main/image/stock-market-thief.png)
+![money](https://github.com/Chanshenlee/stock-market-thief/blob/main/image/stock-market-thief.png)
 
 
 
