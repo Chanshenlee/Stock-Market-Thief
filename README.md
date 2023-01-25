@@ -1,5 +1,4 @@
-# stock-market-thief
-股市偷金 LINE BOT 機器人
+＃ 股市偷金 LINE BOT 機器人
 
 * 目前還沒有用到後端搭配資料庫
 ![Demo](https://github.com/Chanshenlee/stock-market-thief/blob/main/image/stock-market-thief.png?raw=true)
