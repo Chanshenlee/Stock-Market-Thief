@@ -35,9 +35,9 @@ from linebot.models import *
 
 app = Flask(__name__)
 
-parser= WebhookParser('2c608186e8a6312fab5dfb5d50a4f0b9')
+parser= WebhookParser('5ad2fb32862ab51103509dabe5109702')
 
-line_bot_api = LineBotApi('biPsELiEzPmaAF34iYvCLGTEPOnbFYeDBq7hdCoqkcJhUxFJQgAFlNlJ9ChHYvrvw09yt69C068+nkvE0u5d/wJthRWKx7Du/KYIx2niv00mD2GQhKXGY/5pRWuS5+Ow+jbrmu9s6KH1jAWOOhyiiAdB04t89/1O/w1cDnyilFU=')
+line_bot_api = LineBotApi('NiRLP607B/a/WmsHwuH8jUrxZQHUx4zuhq3uHdARyYWcrY/rDz/bmaP9XUcxiScujiOVL++jr64ubhygSbCFpXgdQ5h2Y+HRSeUGIjEmNPtlv1oAw9O+KnzGTXdAFpHIDiXIWqgphWaKvzLfSLz1vQdB04t89/1O/w1cDnyilFU=')
 
 
 
